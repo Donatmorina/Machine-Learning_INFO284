@@ -73,7 +73,3 @@ This repository contains the final exam solutions for INFO284, covering two comp
 - PyTorch / torchvision
 - PyTorch Lightning
 - Matplotlib, Seaborn
-
----
-
-## 📁 Project Structure
